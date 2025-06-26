@@ -1,5 +1,6 @@
 
 # Qt TCP 聊天室
+<span style="color:red; font-weight:bold;">借鉴了Github的80%的代码：https://github.com/Arcofcosmos/Qt_tcp_chatroom</span>
 
 ![图标](qq.png)
 
