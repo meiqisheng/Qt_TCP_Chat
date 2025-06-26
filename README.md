@@ -1,7 +1,9 @@
 
 # Qt TCP 聊天室
-<span style="color:red; font-weight:bold;">借鉴了Github的80%的代码：</span>https://github.com/Arcofcosmos/Qt_tcp_chatroom
 
+### 🔴 借鉴说明
+
+**本项目借鉴了 [Arcofcosmos/Qt_tcp_chatroom](https://github.com/Arcofcosmos/Qt_tcp_chatroom) 的约 80% 的核心代码结构。感谢原作者的开源贡献。**
 ![图标](qq.png)
 
 一个基于 **Qt** 开发的 **TCP 聊天室** 程序，支持服务端与客户端模式，实现多用户实时文字聊天。
